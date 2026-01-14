@@ -1,5 +1,7 @@
 #　Resource for CS225
 
+>   see guide and more course info in CS225 Syllabus.md
+
 ## web resources
 
 UIUC resource
@@ -21,11 +23,16 @@ UIUC resource
 
 -   example-code-lec/ , originally from ***Shkev/Fall 2022 Release Repo***, allow you to get the full of CS225’s lecture with supplemental codes.
 -   lec-handouts/ , you can review this handout right after the lecture to ensure you have understand all the concepts in each lecture.
--   Below is my personal configure(stored locally and git ignores):
-    1.   books/ for extra books as reference
-    2.   exercises/ for you extra self-training
-    3.   notes/ for your own notes 
-    4.   slides for ppts/pdf 
-    5.   cs225/ for the labs and mps
-    6.   CS225 Syllabus.md for you consistent self-check
+
+### Bonus : a tip for structuring your folder
+
+Except for the previous resource I shared, There are other files in my local CS225 course folder.
+
+Below is my personal configure(stored locally and git ignores):
+1.   books/ for extra books as reference
+2.   exercises/ for you extra self-training
+3.   notes/ for your own notes 
+4.   slides for ppts/pdf 
+5.   cs225sp26/ for the labs and mps
+6.   CS225 Syllabus.md for you consistent self-check
 
