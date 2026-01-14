@@ -1,4 +1,4 @@
-#　Resource for CS225
+# Resource for CS225
 
 >   see guide and more course info in CS225 Syllabus.md
 
